@@ -1,0 +1,78 @@
+
+<section >
+        <mat-card  >
+            <mat-tab-group>
+                <mat-tab label="Login" >
+                  
+            <mat-card-content>
+               
+              <form  #loginform="ngForm">
+                <table  cellspacing="0">
+                  <tr>
+                    <td>
+                      <mat-form-field class="example-full-width">
+                      <input matInput placeholder="Username" [(ngModel)]="model.username" name="username" required>
+                      </mat-form-field>
+                    </td>
+                  </tr>
+                  <tr>
+                  <td><mat-form-field class="example-full-width">
+                    <input matInput placeholder="Password" [(ngModel)]="model.password"type="password" name="password" required>
+                  </mat-form-field></td>
+                </tr></table>
+              </form>
+            </mat-card-content>
+            <mat-card-actions>
+              <button mat-raised-button [disabled]="!loginform.valid"(click)="login()" (keydown.enter)="login()" color="primary">Login</button>
+            </mat-card-actions>
+            
+          </mat-tab>
+          <mat-tab label="SignUp">
+              <mat-card-content>
+               
+                  <form  #Signupform="ngForm">
+                    <table  cellspacing="10">
+                      <tr>
+                        <td>
+                          <mat-form-field class="example-full-width">
+                          <input matInput  placeholder="Username" [(ngModel)]="model.username" name="username" required minlength="5" >
+                          <mat-error>Username already selected</mat-error>
+                          </mat-form-field>
+                          
+                        </td>
+                      </tr>
+                      <tr>
+                      <td>
+              <mat-form-field hintLabel="Should be atleat 8 chracters long">
+                        <input 
+                        matInput 
+                        placeholder="Password" 
+                        [(ngModel)]="model.password"
+                        type="password" 
+                        name="password" 
+                        minlength="8"
+                        maxlength="12"
+                        required
+                        #pwInput="ngModel">
+              <mat-hint align="end">{{pwInput.value?.length}}/8</mat-hint>
+                      </mat-form-field>
+                    </td>
+                    </tr>
+                  </table>
+                  </form>
+                </mat-card-content>
+                <mat-card-actions>
+                  <button mat-raised-button [disabled]="!loginform.valid" (click,keydown.enter)="register()" color="primary">SignUp</button>
+                </mat-card-actions>
+                
+          </mat-tab>
+            </mat-tab-group>
+         <!---   <mat-spinner [style.display]="showSpinner ? 'block' : 'none'"></mat-spinner>   -->       
+          </mat-card>
+            
+  
+  
+            
+   
+ 
+</section>

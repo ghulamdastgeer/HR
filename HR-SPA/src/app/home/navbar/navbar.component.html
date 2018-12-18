@@ -1,0 +1,35 @@
+<mat-toolbar  >
+    <div >
+        <button _ngcontent-c15="" class="sidenav-toggle mat-button" mat-button="" (click)="onToggleSidenav()">
+          <span class="mat-button-wrapper">
+          <mat-icon _ngcontent-c15="" class="mat-icon material-icons" role="img" aria-hidden="true">
+            menu</mat-icon>
+          </span>
+          <div class="mat-button-ripple mat-ripple" matripple="">
+
+          </div><div class="mat-button-focus-overlay"></div>
+        </button>
+      </div>
+    <div>
+        <button mat-button [routerLink]="['/home']" routerLinkActive="router-link-active" >Human Resource</button>
+    </div>
+    <div fxFlex fxLayout fxLayoutAlign="flex-end" fxHide.xs>
+        <div fxLayout fxLayoutGap="10px" class="navigation-items">
+            <button  mat-button [matMenuTriggerFor]="menu" matRipple>
+              <mat-icon matBadge="15"  matBadgeColor="accent"  >notifications</mat-icon></button>
+                <mat-menu #menu="matMenu">
+                  <button mat-menu-item><mat-icon>person</mat-icon>Profile</button>                 
+                </mat-menu>
+            
+                <button mat-button [matMenuTriggerFor]="menu"  matRipple>
+                <img  src="http://placehold.it/40x40" mat-list-avatar alt="image caption"> 
+                </button>
+                <mat-menu #menu="matMenu">
+                  <button mat-menu-item><mat-icon>person</mat-icon>Profile</button>
+               <a (click)="logout()"> <i ><mat-icon>exit_to_app</mat-icon></i> Logout</a>
+                </mat-menu>
+            
+     </div>
+    </div>
+  </mat-toolbar>
+  

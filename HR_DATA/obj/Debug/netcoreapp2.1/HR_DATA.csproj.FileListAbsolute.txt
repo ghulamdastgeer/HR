@@ -1,0 +1,33 @@
+C:\Users\Yasir_PC\Documents\Visual Studio 2017\Projects\HR_DATA\bin\Debug\netcoreapp2.1\HR_DATA.deps.json
+C:\Users\Yasir_PC\Documents\Visual Studio 2017\Projects\HR_DATA\bin\Debug\netcoreapp2.1\HR_DATA.dll
+C:\Users\Yasir_PC\Documents\Visual Studio 2017\Projects\HR_DATA\obj\Debug\netcoreapp2.1\HR_DATA.csproj.CoreCompileInputs.cache
+C:\Users\Yasir_PC\Documents\Visual Studio 2017\Projects\HR_DATA\obj\Debug\netcoreapp2.1\HR_DATA.AssemblyInfoInputs.cache
+C:\Users\Yasir_PC\Documents\Visual Studio 2017\Projects\HR_DATA\obj\Debug\netcoreapp2.1\HR_DATA.AssemblyInfo.cs
+C:\Users\Yasir_PC\Documents\Visual Studio 2017\Projects\HR_DATA\bin\Debug\netcoreapp2.1\HR_DATA.runtimeconfig.json
+C:\Users\Yasir_PC\Documents\Visual Studio 2017\Projects\HR_DATA\bin\Debug\netcoreapp2.1\HR_DATA.runtimeconfig.dev.json
+C:\Users\Yasir_PC\Documents\Visual Studio 2017\Projects\HR_DATA\bin\Debug\netcoreapp2.1\HR_DATA.pdb
+C:\Users\Yasir_PC\Documents\Visual Studio 2017\Projects\HR_DATA\obj\Debug\netcoreapp2.1\HR_DATA.dll
+C:\Users\Yasir_PC\Documents\Visual Studio 2017\Projects\HR_DATA\obj\Debug\netcoreapp2.1\HR_DATA.pdb
+C:\Users\Yasir_PC\Documents\Visual Studio 2017\Projects\HR_DATA\obj\Debug\netcoreapp2.1\HR_DATA.csprojAssemblyReference.cache
+E:\HR.API\HR_DATA\bin\Debug\netcoreapp2.1\HR_DATA.deps.json
+E:\HR.API\HR_DATA\bin\Debug\netcoreapp2.1\HR_DATA.runtimeconfig.json
+E:\HR.API\HR_DATA\bin\Debug\netcoreapp2.1\HR_DATA.runtimeconfig.dev.json
+E:\HR.API\HR_DATA\bin\Debug\netcoreapp2.1\HR_DATA.dll
+E:\HR.API\HR_DATA\bin\Debug\netcoreapp2.1\HR_DATA.pdb
+E:\HR.API\HR_DATA\obj\Debug\netcoreapp2.1\HR_DATA.csprojAssemblyReference.cache
+E:\HR.API\HR_DATA\obj\Debug\netcoreapp2.1\HR_DATA.csproj.CoreCompileInputs.cache
+E:\HR.API\HR_DATA\obj\Debug\netcoreapp2.1\HR_DATA.AssemblyInfoInputs.cache
+E:\HR.API\HR_DATA\obj\Debug\netcoreapp2.1\HR_DATA.AssemblyInfo.cs
+E:\HR.API\HR_DATA\obj\Debug\netcoreapp2.1\HR_DATA.dll
+E:\HR.API\HR_DATA\obj\Debug\netcoreapp2.1\HR_DATA.pdb
+E:\HR\HR_DATA\bin\Debug\netcoreapp2.1\HR_DATA.deps.json
+E:\HR\HR_DATA\bin\Debug\netcoreapp2.1\HR_DATA.runtimeconfig.json
+E:\HR\HR_DATA\bin\Debug\netcoreapp2.1\HR_DATA.runtimeconfig.dev.json
+E:\HR\HR_DATA\bin\Debug\netcoreapp2.1\HR_DATA.dll
+E:\HR\HR_DATA\bin\Debug\netcoreapp2.1\HR_DATA.pdb
+E:\HR\HR_DATA\obj\Debug\netcoreapp2.1\HR_DATA.csproj.CoreCompileInputs.cache
+E:\HR\HR_DATA\obj\Debug\netcoreapp2.1\HR_DATA.AssemblyInfoInputs.cache
+E:\HR\HR_DATA\obj\Debug\netcoreapp2.1\HR_DATA.AssemblyInfo.cs
+E:\HR\HR_DATA\obj\Debug\netcoreapp2.1\HR_DATA.dll
+E:\HR\HR_DATA\obj\Debug\netcoreapp2.1\HR_DATA.pdb
+E:\HR\HR_DATA\obj\Debug\netcoreapp2.1\HR_DATA.csprojAssemblyReference.cache
